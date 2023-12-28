@@ -1,6 +1,6 @@
 # Tp4-ApiRest
 
-Trabajo Practico
+Back-End realizado en intelliJ IDEA con una estructura en forma ordenada incluyendo hardcodeo.
 
 # Carpeta Build con Libs:
 
